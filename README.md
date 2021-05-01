@@ -4,9 +4,8 @@ During the month of April 2021, Automatants (https://www.linkedin.com/company/au
 
 ![](images/lap.gif)
 
-Our team FerraRl, composed of Valentin Goldité (https://github.com/valentingol) and I, won the competition against six fierce opponents.
+Our team FerraRl, composed of Alexandre Sajus (https://github.com/AlexandreSajus) and I, won the competition against six fierce opponents.
 
 ![](images/compet.gif)
 
-Thanks a lot to Mathïs Fédérico (https://github.com/MathisFederico) for organizing this competition and for teaching us RL from scratch; and to Valentin Goldité for teaching me a lot about training RL agents and for helping me throughout this competition.
-
+Thanks a lot to Mathïs Fédérico (https://github.com/MathisFederico) for organizing this competition and for teaching us RL from his library LearnRL and to Alexandre Sajus for helping me throughout this competition.
